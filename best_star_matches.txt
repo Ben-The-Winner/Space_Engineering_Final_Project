@@ -1,0 +1,169 @@
+--- Star Matching Results ---
+Total Detected Stars: 31
+Total Matches Found: 31
+Matches by Confidence Level:
+  Green (Confidence >= 0.75): 3
+  Yellow (0.5 <= Confidence < 0.75): 18
+  Red (Confidence < 0.5): 10
+
+--- Performance ---
+Matching Time: 0.2255 seconds
+Time Requirement (< 1 sec): SUCCESS
+
+--- Detailed Match Information ---
+
+Detected Star ID: 2, Pixel Coords: (3005, 3713), Detected Magnitude: 7.22
+  Catalog Star Name: 58Zet Ari, Catalog RA: 48.73, Catalog DEC: 21.04, Catalog Magnitude: 4.89
+  Confidence: 0.28 (Red match)
+  Angular Distance: 2.5507 degrees
+----------------------------------------------------
+Detected Star ID: 6, Pixel Coords: (2237, 3093), Detected Magnitude: 7.97
+  Catalog Star Name: 52    Ari, Catalog RA: 46.36, Catalog DEC: 25.26, Catalog Magnitude: 6.80
+  Confidence: 0.51 (Yellow match)
+  Angular Distance: 0.9570 degrees
+----------------------------------------------------
+Detected Star ID: 10, Pixel Coords: (2368, 3433), Detected Magnitude: 8.18
+  Catalog Star Name: 48Eps Ari, Catalog RA: 44.80, Catalog DEC: 21.34, Catalog Magnitude: 4.63
+  Confidence: 0.30 (Red match)
+  Angular Distance: 2.2890 degrees
+----------------------------------------------------
+Detected Star ID: 11, Pixel Coords: (1112, 3347), Detected Magnitude: 8.04
+  Catalog Star Name: , Catalog RA: 37.31, Catalog DEC: 23.47, Catalog Magnitude: 6.19
+  Confidence: 0.75 (Yellow match)
+  Angular Distance: 0.3392 degrees
+----------------------------------------------------
+Detected Star ID: 15, Pixel Coords: (564, 897), Detected Magnitude: 8.22
+  Catalog Star Name: 4Bet Tri, Catalog RA: 32.39, Catalog DEC: 34.99, Catalog Magnitude: 3.00
+  Confidence: 0.61 (Yellow match)
+  Angular Distance: 0.6409 degrees
+----------------------------------------------------
+Detected Star ID: 16, Pixel Coords: (853, 3337), Detected Magnitude: 7.11
+  Catalog Star Name: , Catalog RA: 34.74, Catalog DEC: 23.17, Catalog Magnitude: 6.46
+  Confidence: 0.74 (Yellow match)
+  Angular Distance: 0.3480 degrees
+----------------------------------------------------
+Detected Star ID: 17, Pixel Coords: (1765, 2862), Detected Magnitude: 8.02
+  Catalog Star Name: , Catalog RA: 42.19, Catalog DEC: 25.19, Catalog Magnitude: 5.86
+  Confidence: 0.60 (Yellow match)
+  Angular Distance: 0.6585 degrees
+----------------------------------------------------
+Detected Star ID: 18, Pixel Coords: (727, 2741), Detected Magnitude: 8.23
+  Catalog Star Name: 20    Ari, Catalog RA: 33.94, Catalog DEC: 25.78, Catalog Magnitude: 5.79
+  Confidence: 0.62 (Yellow match)
+  Angular Distance: 0.6233 degrees
+----------------------------------------------------
+Detected Star ID: 20, Pixel Coords: (1657, 2533), Detected Magnitude: 8.04
+  Catalog Star Name: 35    Ari, Catalog RA: 40.86, Catalog DEC: 27.71, Catalog Magnitude: 4.66
+  Confidence: 0.74 (Yellow match)
+  Angular Distance: 0.3475 degrees
+----------------------------------------------------
+Detected Star ID: 21, Pixel Coords: (1715, 1317), Detected Magnitude: 8.21
+  Catalog Star Name: 17    Per, Catalog RA: 42.88, Catalog DEC: 35.06, Catalog Magnitude: 4.53
+  Confidence: 0.34 (Red match)
+  Angular Distance: 1.9340 degrees
+----------------------------------------------------
+Detected Star ID: 22, Pixel Coords: (1453, 1294), Detected Magnitude: 7.98
+  Catalog Star Name: , Catalog RA: 39.26, Catalog DEC: 34.26, Catalog Magnitude: 5.30
+  Confidence: 0.58 (Yellow match)
+  Angular Distance: 0.7234 degrees
+----------------------------------------------------
+Detected Star ID: 23, Pixel Coords: (782, 1288), Detected Magnitude: 8.07
+  Catalog Star Name: 9Gam Tri, Catalog RA: 34.33, Catalog DEC: 33.85, Catalog Magnitude: 4.01
+  Confidence: 0.80 (Green match)
+  Angular Distance: 0.2493 degrees
+----------------------------------------------------
+Detected Star ID: 24, Pixel Coords: (2173, 1089), Detected Magnitude: 8.02
+  Catalog Star Name: 24    Per, Catalog RA: 44.77, Catalog DEC: 35.18, Catalog Magnitude: 4.93
+  Confidence: 0.61 (Yellow match)
+  Angular Distance: 0.6291 degrees
+----------------------------------------------------
+Detected Star ID: 25, Pixel Coords: (1646, 461), Detected Magnitude: 8.09
+  Catalog Star Name: , Catalog RA: 42.36, Catalog DEC: 37.33, Catalog Magnitude: 6.45
+  Confidence: 0.47 (Red match)
+  Angular Distance: 1.1308 degrees
+----------------------------------------------------
+Detected Star ID: 26, Pixel Coords: (1959, 3562), Detected Magnitude: 7.43
+  Catalog Star Name: 48Eps Ari, Catalog RA: 44.80, Catalog DEC: 21.34, Catalog Magnitude: 4.63
+  Confidence: 0.38 (Red match)
+  Angular Distance: 1.6264 degrees
+----------------------------------------------------
+Detected Star ID: 28, Pixel Coords: (1856, 3082), Detected Magnitude: 8.21
+  Catalog Star Name: , Catalog RA: 42.19, Catalog DEC: 25.19, Catalog Magnitude: 5.86
+  Confidence: 0.62 (Yellow match)
+  Angular Distance: 0.6185 degrees
+----------------------------------------------------
+Detected Star ID: 29, Pixel Coords: (1949, 2586), Detected Magnitude: 8.11
+  Catalog Star Name: 41    Ari, Catalog RA: 42.50, Catalog DEC: 27.26, Catalog Magnitude: 3.63
+  Confidence: 0.57 (Yellow match)
+  Angular Distance: 0.7535 degrees
+----------------------------------------------------
+Detected Star ID: 30, Pixel Coords: (1828, 2525), Detected Magnitude: 8.17
+  Catalog Star Name: 41    Ari, Catalog RA: 42.50, Catalog DEC: 27.26, Catalog Magnitude: 3.63
+  Confidence: 0.82 (Green match)
+  Angular Distance: 0.2268 degrees
+----------------------------------------------------
+Detected Star ID: 31, Pixel Coords: (1798, 2398), Detected Magnitude: 7.31
+  Catalog Star Name: 41    Ari, Catalog RA: 42.50, Catalog DEC: 27.26, Catalog Magnitude: 3.63
+  Confidence: 0.53 (Yellow match)
+  Angular Distance: 0.8886 degrees
+----------------------------------------------------
+Detected Star ID: 32, Pixel Coords: (1032, 2140), Detected Magnitude: 8.10
+  Catalog Star Name: 12    Tri, Catalog RA: 37.04, Catalog DEC: 29.67, Catalog Magnitude: 5.29
+  Confidence: 0.60 (Yellow match)
+  Angular Distance: 0.6781 degrees
+----------------------------------------------------
+Detected Star ID: 33, Pixel Coords: (1095, 2048), Detected Magnitude: 8.15
+  Catalog Star Name: 12    Tri, Catalog RA: 37.04, Catalog DEC: 29.67, Catalog Magnitude: 5.29
+  Confidence: 0.79 (Green match)
+  Angular Distance: 0.2610 degrees
+----------------------------------------------------
+Detected Star ID: 34, Pixel Coords: (1917, 1282), Detected Magnitude: 8.15
+  Catalog Star Name: 17    Per, Catalog RA: 42.88, Catalog DEC: 35.06, Catalog Magnitude: 4.53
+  Confidence: 0.41 (Red match)
+  Angular Distance: 1.4299 degrees
+----------------------------------------------------
+Detected Star ID: 35, Pixel Coords: (1482, 1103), Detected Magnitude: 8.18
+  Catalog Star Name: , Catalog RA: 39.26, Catalog DEC: 34.26, Catalog Magnitude: 5.30
+  Confidence: 0.67 (Yellow match)
+  Angular Distance: 0.4976 degrees
+----------------------------------------------------
+Detected Star ID: 36, Pixel Coords: (335, 930), Detected Magnitude: 7.53
+  Catalog Star Name: 4Bet Tri, Catalog RA: 32.39, Catalog DEC: 34.99, Catalog Magnitude: 3.00
+  Confidence: 0.46 (Red match)
+  Angular Distance: 1.1923 degrees
+----------------------------------------------------
+Detected Star ID: 37, Pixel Coords: (2301, 687), Detected Magnitude: 8.04
+  Catalog Star Name: , Catalog RA: 45.05, Catalog DEC: 38.13, Catalog Magnitude: 6.11
+  Confidence: 0.37 (Red match)
+  Angular Distance: 1.7239 degrees
+----------------------------------------------------
+Detected Star ID: 38, Pixel Coords: (395, 285), Detected Magnitude: 8.19
+  Catalog Star Name: 58    And, Catalog RA: 32.12, Catalog DEC: 37.86, Catalog Magnitude: 4.82
+  Confidence: 0.53 (Yellow match)
+  Angular Distance: 0.8897 degrees
+----------------------------------------------------
+Detected Star ID: 39, Pixel Coords: (932, 2133), Detected Magnitude: 8.16
+  Catalog Star Name: , Catalog RA: 35.02, Catalog DEC: 30.19, Catalog Magnitude: 6.47
+  Confidence: 0.52 (Yellow match)
+  Angular Distance: 0.9058 degrees
+----------------------------------------------------
+Detected Star ID: 40, Pixel Coords: (2239, 1098), Detected Magnitude: 7.74
+  Catalog Star Name: 24    Per, Catalog RA: 44.77, Catalog DEC: 35.18, Catalog Magnitude: 4.93
+  Confidence: 0.53 (Yellow match)
+  Angular Distance: 0.9015 degrees
+----------------------------------------------------
+Detected Star ID: 41, Pixel Coords: (2039, 2357), Detected Magnitude: 7.48
+  Catalog Star Name: , Catalog RA: 45.88, Catalog DEC: 28.27, Catalog Magnitude: 6.36
+  Confidence: 0.38 (Red match)
+  Angular Distance: 1.6309 degrees
+----------------------------------------------------
+Detected Star ID: 42, Pixel Coords: (1581, 1251), Detected Magnitude: 8.08
+  Catalog Star Name: , Catalog RA: 39.26, Catalog DEC: 34.26, Catalog Magnitude: 5.30
+  Confidence: 0.47 (Red match)
+  Angular Distance: 1.1497 degrees
+----------------------------------------------------
+Detected Star ID: 43, Pixel Coords: (1545, 430), Detected Magnitude: 7.78
+  Catalog Star Name: , Catalog RA: 39.62, Catalog DEC: 38.09, Catalog Magnitude: 6.30
+  Confidence: 0.65 (Yellow match)
+  Angular Distance: 0.5486 degrees
+----------------------------------------------------
